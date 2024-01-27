@@ -13,12 +13,12 @@ export default function ProductList({
   discount,
 }) {
   return (
-    <li className="flex flex-col items-start swiper-slide w-249pxr h-516pxr">
-      <Images image={image} />
+    <li className="flex flex-col items-start cursor-pointer swiper-slide w-249pxr">
+      <Images image={image} name={name} />
       <Button />
       <Description description={description} />
       <Name name={name} />
-      <Price price={price} />
+      <Price price={price} discount={discount} />
       <DiscountedPrice price={price} discount={discount} />
     </li>
   );
