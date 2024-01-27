@@ -1,0 +1,79 @@
+{
+  "name": "productListData.json",
+  "version": "0.0.1",
+  "author": "cm730712@gamil.com",
+  "products": [
+    {
+      "id": "rm30kvaahi4amvw",
+      "image": "/images/delicious.jpeg",
+      "name": "[브룩클린688] 호주산 목초육 안심 스테이크 250g (냉장)",
+      "description": "행사 100g 당  7,328원",
+      "price": "22900",
+      "discount": "20"
+    },
+    {
+      "id": "wh0t60xgd0chnm6",
+      "image": "/images/kf365.jpg",
+      "name": "[KF365] 한돈 삼겹살 구이용 600g (냉장)",
+      "description": "100g 당 판매가: 2,690원",
+      "price": "17950",
+      "discount": "10"
+    },
+    {
+      "id": "3usdvvr3jog5z48",
+      "image": "/images/kimsButcher.jpg",
+      "name": "[Kim's Butcher] 돌돌말이 대패 삼겹살 ",
+      "description": "행사 100g 당 1,199원",
+      "price": "15990",
+      "discount": "25"
+    },
+    {
+      "id": "2ep7wrqnutm5ebu",
+      "image": "/images/kurlys.jpg",
+      "name": "[Kurly's] 동물복지 유정란 20구",
+      "description": "1구 당 판매가: 449.5원",
+      "price": "9900",
+      "discount": "8"
+    },
+    {
+      "id": "kevcsenfzhil0mr",
+      "image": "/images/natureSilok.jpg",
+      "name": "[자연실록] 무항생제 닭 가슴살 500g",
+      "description": "100g 당 1,598원",
+      "price": "7990",
+      "discount": "10"
+    },
+    {
+      "id": "2h4em2kqatejal5",
+      "image": "/images/ohbaltan.jpg",
+      "name": "[오발탄] 소곱창 구이",
+      "description": "곱이 가득 들어간 고소한 곱창",
+      "price": "16990",
+      "discount": ""
+    },
+    {
+      "id": "8062ohpnov29my4",
+      "image": "/images/samihyun.jpg",
+      "name": "[사미헌] LA갈비",
+      "description": "소고기 명가의 특제 양념에 숙성한",
+      "price": "24160",
+      "discount": "10"
+    },
+    {
+      "id": "f2uq7mimtjkcvo6",
+      "image": "/images/soonguiGarden.jpeg",
+      "name": "[숭의가든] 옛날 소 불고기",
+      "description": "달큰한 매력의 서울식 불고기",
+      "price": "14990",
+      "discount": ""
+    },
+    {
+      "id": "zlo9emzewbzdh75",
+      "image": "/images/taewoo.jpeg",
+      "name": "[태우한우] 1+ 한우 안심 스테이크/구이 200g (냉장)",
+      "description": "100g당 가격: 19,850원",
+      "price": "39700",
+      "discount": ""
+    }
+  ]
+}
