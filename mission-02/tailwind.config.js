@@ -10,7 +10,7 @@ const pxToRemFunc = (start, end) =>
   }, {});
 
 export default {
-  content: ['./index.html', './src/**/*.{js,jsx,ts,tsx,html}'],
+  content: ['./index.html', './src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     extend: {
       colors: {
@@ -74,6 +74,9 @@ export default {
         mobile: '360px',
         tablet: '768px',
         desktop: '1280px',
+      },
+      fontFamily: {
+        suit: ['SUIT Variable', 'Helvetica Neue', 'Arial', 'sans-serif'],
       },
     },
   },
