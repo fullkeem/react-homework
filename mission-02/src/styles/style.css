@@ -3,5 +3,5 @@
 @import 'tailwindcss/utilities';
 
 #root {
-  @apply text-base font-suit;
+  @apply my-4 text-base font-suit;
 }
